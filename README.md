@@ -21,19 +21,19 @@
 <li>PHP</li>
 </ul><h2>Features</h2>
 <hr><ul>
-<li>Excel Upload: Easily upload quiz questions in bulk using an Excel sheet directly from the WordPress dashboard.</li>
+<li><strong>Excel Upload:</strong> Easily upload quiz questions in bulk using an Excel sheet directly from the WordPress dashboard.</li>
 </ul><ul>
-<li>User Data Tracking: Track user performance, including scores, attempts, email addresses, and phone numbers.</li>
+<li><strong>User Data Tracking:</strong>strong> Track user performance, including scores, attempts, email addresses, and phone numbers.</li>
 </ul><ul>
-<li>Data Export: Export user data and quiz results into an Excel sheet for detailed analysis and reporting.</li>
+<li><strong>Data Export:</strong>strong> Export user data and quiz results into an Excel sheet for detailed analysis and reporting.</li>
 </ul><ul>
-<li>Analytics Dashboard: View real-time analytics of quiz performance, including user engagement and overall results.</li>
+<li><strong>Analytics Dashboard:</strong>strong> View real-time analytics of quiz performance, including user engagement and overall results.</li>
 </ul><ul>
-<li>Easy Management: Organize, edit, and update quiz questions and results directly within the WordPress dashboard.</li>
+<li><strong>Easy Management:</strong>strong> Organize, edit, and update quiz questions and results directly within the WordPress dashboard.</li>
 </ul><ul>
-<li>Mobile Responsive: Fully responsive design, ensuring quizzes work seamlessly on all devices.</li>
+<li><strong>Mobile Responsive:</strong>strong> Fully responsive design, ensuring quizzes work seamlessly on all devices.</li>
 </ul><ul>
-<li>Automatic Scoring: Automatically calculate and display scores after quiz completion.</li>
+<li><strong>Automatic Scoring:</strong>strong> Automatically calculate and display scores after quiz completion.</li>
 </ul><ul>
-<li>Exportable Reports: Generate and export detailed reports with quiz data for further analysis.</li>
+<li><strong>Exportable Reports:</strong>strong> Generate and export detailed reports with quiz data for further analysis.</li>
 </ul>
